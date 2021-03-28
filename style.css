@@ -1,0 +1,24 @@
+/* Example styling of a h1 element */
+
+body {
+  font-family: 'Caladea';font-size: 18px;
+  padding: 25px 50px;
+  background-color: rgb(212, 212, 212);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: auto;
+}
+
+#header1 {
+  color: #585858;
+  text-align: center;
+}
+
+.pairtext {
+  text-align: left;
+}
